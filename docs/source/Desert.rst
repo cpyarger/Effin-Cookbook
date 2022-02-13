@@ -4,5 +4,6 @@ Deserts
    :toctree: generated
 
    BHBB
+   ACrisp
 
 Deserts should be here
