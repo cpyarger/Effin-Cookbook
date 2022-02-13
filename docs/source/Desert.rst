@@ -1,7 +1,6 @@
 Deserts
 =======
-.. autosummary::
-   :toctree: generated
+.. toctree:
 
    BHBB
    ACrisp
