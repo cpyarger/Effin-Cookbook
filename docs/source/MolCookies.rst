@@ -13,8 +13,8 @@ Molasses Cookies (aunt Saties)
 * 3 tsp cinnamon
 * 1 pinch cloves
 
-Mix together.
-Refrigerate overnight
-roll out flat
-cut out Cookies
-bake at 350F for 10 minutes
+   Mix together.
+   Refrigerate overnight
+   roll out flat
+   cut out Cookies
+   bake at 350F for 10 minutes
