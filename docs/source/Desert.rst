@@ -5,5 +5,6 @@ Deserts
    BHBB
    ACrisp
    MolCookies
+   gingerbreadPeople
 
-Deserts should be here
+Deserts should be here (nods)
