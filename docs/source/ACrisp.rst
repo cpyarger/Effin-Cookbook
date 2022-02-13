@@ -1,5 +1,5 @@
 Great Grandma Walkley's Apple Crisp
-===============================
+===================================
 .. autosummary::
    :toctree: generated
 
