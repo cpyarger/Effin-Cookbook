@@ -1,5 +1,5 @@
-Deserts
-=======
+2. Deserts
+==========
 
 .. toctree::
    :numbered:
