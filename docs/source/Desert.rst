@@ -3,10 +3,8 @@ Deserts
 
 .. toctree::
    :numbered:
+   :glob:
 
-   BHBB
-   ACrisp
-   MolCookies
-   gingerbreadPeople
+   deserts/*
 
 Deserts yum

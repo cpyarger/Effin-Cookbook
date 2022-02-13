@@ -1,6 +1,0 @@
-.. toctree::
-   :numbered:
-
-GingerBread People
-==================
-

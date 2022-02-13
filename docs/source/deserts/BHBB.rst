@@ -1,10 +1,9 @@
+Blueberry Hill Blueberry Buckle
+===============================
 .. toctree::
    :numbered:
 
    
-Blueberry Hill Blueberry Buckle
-===============================
-
 * 3/4 Cup Sugar
 * 1/4 Cup Shortening
 * 1 Egg
