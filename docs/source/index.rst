@@ -1,12 +1,10 @@
 ***********************
-Combined Family Recipes
+Effin Cookbook
 ***********************
-Yarger, Walkley, Mcninch, Beach, Wright
-#######################################
-
-Contents
---------
 
 .. toctree::
 
-   BHBB
+   Breakfasts
+   Dinners
+   Breads
+   Deserts
