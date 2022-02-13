@@ -1,7 +1,7 @@
 Breads
 ======
 .. autosummary::
-   :toctree: generated
+   :toctree:
 
     BHBB
 
