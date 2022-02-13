@@ -7,5 +7,5 @@ Effin Cookbook
    Breakfasts
    Dinners
    Breads
-   Deserts
+   Desert
    Conversion
