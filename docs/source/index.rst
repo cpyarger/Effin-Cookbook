@@ -1,10 +1,10 @@
 ***********************
 Effin Cookbook
 ***********************
-.. autosummary::
-   :toctree: _autosummary
-   :recursive:
-   
+
+.. toctree::
+   :numbered:
+
    Breakfasts
    Dinners
    Desert

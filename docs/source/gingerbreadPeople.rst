@@ -1,4 +1,6 @@
+.. toctree::
+   :numbered:
+
 GingerBread People
 ==================
-.. autosummary::
-   :toctree: generated
+

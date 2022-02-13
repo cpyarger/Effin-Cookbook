@@ -1,6 +1,9 @@
 Deserts
 =======
-.. toctree:
+
+.. toctree::
+   :numbered:
+
    BHBB
    ACrisp
    MolCookies

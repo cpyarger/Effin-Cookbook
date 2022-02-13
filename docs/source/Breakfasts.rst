@@ -1,6 +1,8 @@
-Breakfasts
-==========
-.. autosummary::
-   :toctree: generated
+.. toctree::
+   :numbered:
+   
     
     BHBB
+
+Breakfasts
+==========

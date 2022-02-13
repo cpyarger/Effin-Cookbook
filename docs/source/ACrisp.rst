@@ -1,7 +1,7 @@
 Great Grandma Walkley's Apple Crisp
 ===================================
-.. autosummary::
-   :toctree: generated
+.. toctree::
+   :numbered:
 
 
 * 1 Cup Sugar

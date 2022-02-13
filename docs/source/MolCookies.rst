@@ -1,7 +1,7 @@
 Molasses Cookies (aunt Saties)
 ==============================
-.. autosummary::
-   :toctree: generated
+.. toctree::
+   :numbered:
 
 
 * 1 Cup Shortening
