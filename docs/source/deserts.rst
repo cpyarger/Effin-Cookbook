@@ -1,8 +1,6 @@
 Deserts
 =======
-.. autosummary::
-   :toctree: generated
-
+.. toctree::
    BHBB
 
 Deserts should be here
