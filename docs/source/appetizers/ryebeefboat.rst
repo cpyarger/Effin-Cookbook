@@ -2,7 +2,7 @@ Rye Beef Boat
 =============
 .. toctree::
 
-.. list-table:: ingredients
+.. list-table:: Ingredients
    :header-rows: 0
 
    * - 16 oz sour cream

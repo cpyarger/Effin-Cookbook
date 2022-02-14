@@ -5,7 +5,7 @@ Molasses Cookies
 
 .. toctree::
 
-.. list-table:: ingredients
+.. list-table:: Ingredients
    :header-rows: 0
 
    * - 1 Cup Shortening

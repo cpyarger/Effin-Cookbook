@@ -3,7 +3,7 @@ Sugar Loaf Coffee Cake
 .. toctree::
 
 
-.. list-table:: ingredients
+.. list-table:: Ingredients
     :header-rows: 0
 
     * - 2 1/2 Cups flour

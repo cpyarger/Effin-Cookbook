@@ -3,7 +3,7 @@ Thumbprint Cookies
 .. toctree::
 
 
-.. list-table:: ingredients
+.. list-table:: Ingredients
    :header-rows: 0
 
    * - 1/4 cup brown Sugar

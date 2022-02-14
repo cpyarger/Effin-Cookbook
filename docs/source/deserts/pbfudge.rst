@@ -2,7 +2,7 @@ Peanut Butter Fudge
 ===================
 .. toctree::
 
-.. list-table:: ingredients
+.. list-table:: Ingredients
    :header-rows: 0
 
    * - 3/4 Cup milk

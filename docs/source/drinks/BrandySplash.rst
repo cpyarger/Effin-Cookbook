@@ -2,7 +2,7 @@ Brandy Splash
 =============
 .. toctree::
 
-.. list-table:: ingredients
+.. list-table:: Ingredients
    :header-rows: 0
 
    * - 9 Cups Water

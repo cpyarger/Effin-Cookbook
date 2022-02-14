@@ -14,5 +14,5 @@ Apple Crisp
    * - 1/2 Cup butter
      - 4 cups apples
 
-Mix and Sorinkle on top of apples
+Mix and Sprinkle on top of apples
 Bake for 30 minuts at 350F

@@ -2,7 +2,7 @@ GingerBread People
 ==================
 .. toctree::
 
-.. list-table:: ingredients
+.. list-table:: Ingredients
    :header-rows: 0
 
    * - 1 Cup Packed Brown Sugar

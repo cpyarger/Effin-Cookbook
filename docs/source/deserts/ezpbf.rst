@@ -2,7 +2,7 @@ Easy Peanut Butter Fudge
 ========================
 .. toctree::
 
-.. list-table:: ingredients
+.. list-table:: Ingredients
    :header-rows: 0
 
    * - 1 Can Vanilla Frosting

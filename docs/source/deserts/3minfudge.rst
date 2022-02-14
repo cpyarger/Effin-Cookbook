@@ -2,7 +2,7 @@
 ==============
 .. toctree::
 
-.. list-table:: ingredients
+.. list-table:: Ingredients
    :header-rows: 0
 
    * - 2 cups chocolate chips
