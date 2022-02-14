@@ -1,7 +1,6 @@
 Thumbprint Cookies
 ==================
 .. toctree::
-   :numbered:
 
 
 .. list-table:: ingredients

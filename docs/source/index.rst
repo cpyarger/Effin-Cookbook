@@ -13,7 +13,6 @@ These include the following families;
 * Beach
 
 .. toctree::
-   :numbered:
 
    Breakfast
    Dinner

@@ -1,7 +1,6 @@
 GingerBread People
 ==================
 .. toctree::
-   :numbered:
 
 .. list-table:: ingredients
    :header-rows: 0

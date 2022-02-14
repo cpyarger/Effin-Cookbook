@@ -1,8 +1,7 @@
-2. Deserts
-==========
+Deserts
+=======
 
 .. toctree::
-   :numbered:
    :glob:
 
    deserts/*

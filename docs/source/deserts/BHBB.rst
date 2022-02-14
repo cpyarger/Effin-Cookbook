@@ -1,7 +1,6 @@
 Blueberry Hill Blueberry Buckle
 ===============================
 .. toctree::
-   :numbered:
 
 .. list-table:: ingredients
    :header-rows: 0

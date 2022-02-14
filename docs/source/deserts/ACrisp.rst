@@ -1,7 +1,6 @@
 Great Grandma Walkley's Apple Crisp
 ===================================
 .. toctree::
-   :numbered:
 
 .. list-table:: ingredients
    :header-rows: 0
