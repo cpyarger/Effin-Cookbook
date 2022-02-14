@@ -1,2 +1,0 @@
-groundwork-sphinx-theme
-sphinx-pdj-theme
