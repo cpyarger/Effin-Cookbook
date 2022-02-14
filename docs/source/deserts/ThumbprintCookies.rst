@@ -2,19 +2,21 @@ Thumbprint Cookies
 ==================
 .. toctree::
    :numbered:
+
+
 .. list-table:: ingredients
    :header-rows: 0
 
-
-    * - 1/4 cup brown Sugar
-      - 1/4 cup shortening
-    * - 1/4 cup butter
-      - 1/2 tsp vanilla
-    * - 1 egg seperated 
-      - 1 cup flour
-    * - 1/4 tsp salt
-      - 3/4 cup copped nuts
-    * - jelly
+   * - 1/4 cup brown Sugar
+     - 1/4 cup shortening
+   * - 1/4 cup butter
+     - 1/2 tsp vanilla
+   * - 1 egg seperated 
+     - 1 cup flour
+   * - 1/4 tsp salt
+     - 3/4 cup copped nuts
+   * - jelly
+     -  
 
 Heat oven to 350F
 Mix sugar, shortening, butter, vanilla, and egg yolk.

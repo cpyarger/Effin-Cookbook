@@ -6,7 +6,6 @@ GingerBread People
 .. list-table:: ingredients
    :header-rows: 0
 
-
    * - 1 Cup Packed Brown Sugar
      - 1/3 Cup Shortening
    * - 1 1/2 Cup Dark Molasses
@@ -18,7 +17,8 @@ GingerBread People
    * - 1 tsp ground allspice
      - 1 tsp ground cloves
    * - 1 tsp ground cinnamon
-     - 
+     -
+
 Mix Brown Sugar, Shortening, Molasses and Water
 Stir in remaning ingredients
 cover for at least 2 hours
@@ -29,4 +29,3 @@ place 2 inches apart on lightly greased cookie sheets
 bake untul no indentations remain when touched (about 10-12 minutes)
 decorate as desired. 
 (makes ~ 2 1/2 dozen)
-
