@@ -1,0 +1,7 @@
+Drinks
+=======
+
+.. toctree::
+   :glob:
+
+   drinks/*
