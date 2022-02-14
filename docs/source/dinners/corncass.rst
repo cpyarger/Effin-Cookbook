@@ -1,5 +1,8 @@
-Louise Yarger's Corn Casserole
+Corn Casserole
 ==============================
+-------------
+Louise Yarger
+-------------
 .. toctree::
 
 .. list-table:: Ingredients
