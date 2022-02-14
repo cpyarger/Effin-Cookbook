@@ -1,5 +1,8 @@
-Blueberry Hill Blueberry Buckle
-===============================
+Blueberry Buckle
+================
+
+**Blueberry Hill**
+
 .. toctree::
 
 .. list-table:: Ingredients

@@ -1,5 +1,8 @@
-Molasses Cookies (aunt Saties)
-==============================
+Molasses Cookies
+================
+
+**Aunt Saties**
+
 .. toctree::
 
 .. list-table:: ingredients
