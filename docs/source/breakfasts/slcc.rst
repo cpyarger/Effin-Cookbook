@@ -19,14 +19,15 @@ Sugar Loaf Coffee Cake
     * - 1 cup milk or buttermilk
       - 1 egg beaten
 
-Heat oven to 375F.
-grease a square 9x9in pan.
-mix dry ingredients well in bowl.
-cut shortening till it looks like oatmeal.
-set aside 1 cup for top.
-add raisins.
-mix milk and eggstir dry ingredients  until just a little moist.
-pour into pan.
-sprinkle reserved mixture over top.
-bake 40-45 minutes.
-serve warm.
+1. Heat oven to 375F.
+2. Grease a square 9x9in pan.
+3. Mix dry ingredients well in bowl.
+4. Cut shortening till it looks like oatmeal.
+5. Set aside 1 cup for top.
+6. Add raisins.
+7. Mix milk and egg
+8. Stir in dry ingredients until just a little moist.
+9. pour into pan.
+10. sprinkle reserved mixture over top.
+11. bake 40-45 minutes.
+12. serve warm.
