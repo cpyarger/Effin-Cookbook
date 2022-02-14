@@ -21,10 +21,12 @@ Blueberry Hill Blueberry Buckle
 4. Stir in dry Mix
 5. Carefully blend in blueberries. 
 6. Spread batter in greased and floured 9 inch pan
-7. Sprinkle CRUMB MIXTURE (below) 
-8. Bake at 375 F for 45 to 50 minutes (until wooden pick comes out clean) 
+7. Sprinkle :ref:`crumb-mix` over top
+8. Bake at 375 F for 45 to 50 minutes (until wooden pick comes out clean)
 
-CRUMB MIXTURE
+.. _crumb-mix:
+
+Crumb Mixture
 -------------
 .. list-table:: Ingredients
    :header-rows: 0
