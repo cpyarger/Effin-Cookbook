@@ -10,7 +10,7 @@ Sugar Loaf Coffee Cake
       - 1 1/4 Cups Sugar
     * - 3 /2 tsp baking Powder
       - 1 tsp salt
-    * -  tsp nutmeg
+    * - 1 tsp nutmeg
       - 1 tsp cinnamon
     * - 1/2 tsp cloves
       - 1/2 tsp allspice
@@ -27,7 +27,7 @@ Sugar Loaf Coffee Cake
 6. Add raisins.
 7. Mix milk and egg
 8. Stir in dry ingredients until just a little moist.
-9. pour into pan.
-10. sprinkle reserved mixture over top.
-11. bake 40-45 minutes.
-12. serve warm.
+9. Pour into pan.
+10. Sprinkle reserved mixture over top.
+11. Bake 40-45 minutes.
+12. Serve warm.

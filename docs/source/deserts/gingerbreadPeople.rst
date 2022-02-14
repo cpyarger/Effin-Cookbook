@@ -20,11 +20,11 @@ GingerBread People
 
 Mix Brown Sugar, Shortening, Molasses and Water
 Stir in remaning ingredients
-cover for at least 2 hours
-heat oven to 350F
-roll dough 1/2 inch thick on floured board
-cut with floured cookie cutters
-place 2 inches apart on lightly greased cookie sheets
-bake untul no indentations remain when touched (about 10-12 minutes)
-decorate as desired. 
+Cover for at least 2 hours
+Heat oven to 350F
+Roll dough 1/2 inch thick on floured board
+Cut with floured cookie cutters
+Place 2 inches apart on lightly greased cookie sheets
+Bake untul no indentations remain when touched (about 10-12 minutes)
+Decorate as desired. 
 (makes ~ 2 1/2 dozen)

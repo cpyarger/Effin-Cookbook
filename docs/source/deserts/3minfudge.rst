@@ -10,8 +10,8 @@
    * - 2 tsp vanilla
      - 1/4 cups raisins
 
-Add chips and condensed milk to bowl.
-Microwave 3 minutes on high.
-Add vanilla and raisins.
-Pour into 8x8 in foil lined pan. 
+1. Add chips and condensed milk to bowl.
+2. Microwave 3 minutes on high.
+3. Add vanilla and raisins.
+4. Pour into 8x8 in foil lined pan. 
 

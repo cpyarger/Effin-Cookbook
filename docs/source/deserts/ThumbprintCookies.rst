@@ -17,14 +17,14 @@ Thumbprint Cookies
    * - jelly
      -  
 
-Heat oven to 350F
-Mix sugar, shortening, butter, vanilla, and egg yolk.
-stir in flour and salt until dough holds together
-shape into balls
-lightly mix egg whites
-dip each ball into egg whites
-press thumb into balls
-place on pan
-bake until light brown (about 5 mins)
-remove from cookie sheet and fill Thumbprint with jelly
-(makes about 3 dozen)
+1. Heat oven to 350F
+2. Mix sugar, shortening, butter, vanilla, and egg yolk.
+3. Stir in flour and salt until dough holds together
+4. Shape into balls
+5. Lightly mix egg whites
+6. Dip each ball into egg whites
+7. Press thumb into balls
+8. Place on pan
+9. Bake until light brown (about 5 mins)
+10. Remove from cookie sheet and fill Thumbprint with jelly
+11. (makes about 3 dozen)

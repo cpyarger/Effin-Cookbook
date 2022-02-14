@@ -12,5 +12,5 @@ Rye Beef Boat
    * - 1 tbsp parsley
      - 1 package dried beef
 
-Mix ingredients.
-Put in gutted rye loaf
+1. Mix ingredients.
+2. Put in gutted rye loaf
