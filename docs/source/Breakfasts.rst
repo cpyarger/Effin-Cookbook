@@ -1,8 +1,0 @@
-.. toctree::
-   :numbered:
-   
-    
-    BHBB
-
-Breakfasts
-==========

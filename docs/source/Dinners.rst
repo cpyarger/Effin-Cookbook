@@ -1,6 +1,0 @@
-Dinners
-=======
-.. autosummary::
-   :toctree: generated
-
-

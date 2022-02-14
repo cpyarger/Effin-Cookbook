@@ -5,7 +5,7 @@ Effin Cookbook
 .. toctree::
    :numbered:
 
-   Breakfasts
-   Dinners
+   Breakfast
+   Dinner
    Desert
    Conversion
