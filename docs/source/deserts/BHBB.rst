@@ -3,15 +3,18 @@ Blueberry Hill Blueberry Buckle
 .. toctree::
    :numbered:
 
-   
-* 3/4 Cup Sugar
-* 1/4 Cup Shortening
-* 1 Egg
-* 1/2 Cup milk
-* 2 cups blueberries, well drained
-* 2 cups floue
-* 2 tsp. baking powder
-* 1/2 tsp. salt
+.. list-table:: ingredients
+   :header-rows: 0
+
+
+   * - 3/4 Cup Sugar
+     - 1/4 Cup Shortening
+   * - 1 Egg
+     - 1/2 Cup milk
+   * - 2 cups blueberries, well drained
+     - 2 cups floue
+   * - 2 tsp. baking powder
+     - 1/2 tsp. salt
   
   Mix thouroughly together sigar, shortening and egg. 
   stir in milk
