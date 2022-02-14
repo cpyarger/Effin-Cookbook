@@ -14,6 +14,7 @@ Blueberry Muffins
    * - 2 cups flour
      - 3/4 tsp baking soda
    * - 1 1/2 tsp cream of tartar
+     - 
 
 1. Cream together Shortening, sugar, and vinegar.
 2. Add egg vanilla and milk
