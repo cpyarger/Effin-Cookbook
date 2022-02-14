@@ -6,11 +6,12 @@ Sopapillas
    :header-rows: 0
 
    * - 2 Cups flour
-   * - 1 Tbsp baking soda
+     - 1 Tbsp baking soda
    * - 1/2 tsp salt
-   * - 1 Tbsp Shortening
+     - 1 Tbsp Shortening
    * - 2/3 cup lukewarm water
-  
+     -
+
 1. Stir together flour, baking soda, and salt
 2. Cut in Shortening
 3. Gradually add water while stirring with fork
