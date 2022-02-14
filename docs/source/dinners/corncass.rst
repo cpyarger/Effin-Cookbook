@@ -1,8 +1,8 @@
 Corn Casserole
 ==============================
--------------
-Louise Yarger
--------------
+
+**Louise Yarger**
+
 .. toctree::
 
 .. list-table:: Ingredients

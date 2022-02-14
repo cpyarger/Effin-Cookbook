@@ -1,8 +1,8 @@
 Zucchini Brownies
 ==============================
----------
-Kim Smith
----------
+
+**Kim Smith**
+
 .. toctree::
 
 .. list-table:: Ingredients

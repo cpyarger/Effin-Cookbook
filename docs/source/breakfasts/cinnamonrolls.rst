@@ -1,5 +1,8 @@
-Cinnamon rolls - Margaret Kay
-=============================
+Cinnamon rolls
+==============
+
+**Margaret Kay**
+
 .. toctree::
 
 .. list-table:: Ingredients
