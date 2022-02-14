@@ -2,7 +2,7 @@ Blueberry Hill Blueberry Buckle
 ===============================
 .. toctree::
 
-.. list-table:: ingredients
+.. list-table:: Ingredients
    :header-rows: 0
 
 
@@ -15,18 +15,18 @@ Blueberry Hill Blueberry Buckle
    * - 2 tsp. baking powder
      - 1/2 tsp. salt
   
-Mix thouroughly together sigar, shortening and egg. 
-stir in milk
-sift together flour, baking powder and salt.
-stir in dry Mix
-carefully blend in blueberries. 
-spread batter in greased and floured 9 inch pan
-sprinkle CRUMB MIXTURE (below) 
-bake at 375 F for 45 to 50 minutes (until wooden pick comes out clean) 
+1. Mix thouroughly together sugar, shortening and egg. 
+2. Stir in milk
+3. Sift together flour, baking powder and salt.
+4. Stir in dry Mix
+5. Carefully blend in blueberries. 
+6. Spread batter in greased and floured 9 inch pan
+7. Sprinkle CRUMB MIXTURE (below) 
+8. Bake at 375 F for 45 to 50 minutes (until wooden pick comes out clean) 
 
 CRUMB MIXTURE
-=============
-.. list-table:: ingredients
+-------------
+.. list-table:: Ingredients
    :header-rows: 0
 
 
@@ -35,5 +35,5 @@ CRUMB MIXTURE
    * - 1/3 cup flour
      - 1/4 cup soft butter
 
-Mix all ingredients together 
-sprinkle on top of batter
+1. Mix all ingredients together 
+2. Sprinkle on top of batter
