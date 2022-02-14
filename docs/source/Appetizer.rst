@@ -1,5 +1,5 @@
 Appetizers
-=======
+==========
 
 .. toctree::
    :glob:

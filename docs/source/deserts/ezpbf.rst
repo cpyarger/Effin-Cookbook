@@ -1,5 +1,5 @@
 Easy Peanut Butter Fudge
-===================
+========================
 .. toctree::
 
 .. list-table:: ingredients
