@@ -1,4 +1,4 @@
-Peanut butter Fudge
+Peanut Butter Fudge
 ===================
 .. toctree::
 
