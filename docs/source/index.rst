@@ -14,6 +14,7 @@ These include the following families;
 
 .. toctree::
 
+   Appetizer
    Breakfast
    Dinner
    Desert

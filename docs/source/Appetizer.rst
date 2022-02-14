@@ -1,0 +1,7 @@
+Appetizers
+=======
+
+.. toctree::
+   :glob:
+
+   appetizers/*
