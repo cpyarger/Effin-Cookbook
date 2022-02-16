@@ -14,7 +14,7 @@ Spaghetti Sauce
      - Onions
    * - 1 tsp Garlic
      - Salt & Pepper to taste
-   * - Sugar
+   * - Sugar (up to 1 Tbsp)
      -
 
 **Foley food mill instructions**
