@@ -17,16 +17,16 @@ Spaghetti Sauce
    * - Sugar
      -
 
-**Fooley food mill instructions**
+**Foley food mill instructions**
 
 1. Quarter tomatoes
 2. Dice all other Veggies
 3. Cook all veggies until tender
-4. Put through fooley food mill
+4. Put through foley food mill
 5. Season to taste
 6. Cook down until desired thickness
 
-**Non fooley food mill instructions**
+**Non foley food mill instructions**
 
 1. Blanch tomatoes
 2. Let tomatoes cool a bit
