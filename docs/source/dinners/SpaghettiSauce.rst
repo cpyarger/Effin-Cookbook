@@ -7,14 +7,15 @@ Spaghetti Sauce
    :header-rows: 0
 
    * - Large Bushell of tomatoes
-   * - Green and Red bell peppers
+     - Green and Red bell peppers
    * - Carrots
-   * - Celery
+     - Celery
    * - Red Chilli peppers
-   * - Onions
+     - Onions
    * - 1 tsp Garlic
-   * - Salt & Pepper to taste
+     - Salt & Pepper to taste
    * - Sugar
+     -
 
 **Fooley food mill instructions**
 
