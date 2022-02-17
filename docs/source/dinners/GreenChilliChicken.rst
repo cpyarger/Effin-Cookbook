@@ -1,5 +1,8 @@
 Green Chili Chicken Enchiladas
 ==============================
+
+**Elizabeth Walkley**
+
 .. toctree::
 
 .. list-table:: Ingredients
