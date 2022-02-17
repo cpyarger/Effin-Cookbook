@@ -9,15 +9,15 @@ Green Chili Chicken Enchiladas
    :header-rows: 0
 
    * - 2 Whole chickens
-   * - Water
+     - Water
    * - Flour
-   * - 5 Green Chili
+     - 5 Green Chili
    * - 2 tubes Sour Cream
-   * - Corn Tortillas
+     - Corn Tortillas
    * - Cheddar Cheese
-   * - Monteray Jack Cheese
+     - Monteray Jack Cheese
    * - Lettuce
-   * - Tomatoes, Diced
+     - Tomatoes, Diced
 
 1. Boil Chickens (save broth)
 2. Shred chicken meat 
